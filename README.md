@@ -4,6 +4,8 @@
 
 ## Build Setup
 
+## README
+
 ``` bash
 # install dependencies
 $ npm run install
